@@ -1,0 +1,18 @@
+body {
+  font-family: 'Abril Fatface', cursive;
+  background-color:peachpuff;
+}
+
+#title {
+  color: lightsalmon;
+  font-size: 40px;
+}
+
+#subtitle {
+  color: lightsalmon;
+  font-size: 20px;
+}
+
+#kiev {
+  color: lightsalmon;
+}
